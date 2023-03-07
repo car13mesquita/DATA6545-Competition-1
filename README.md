@@ -5,6 +5,6 @@
 ## Data Source
 
 ## Conclusion
-Click [here](https://github.com/car13mesquita/DATA6505-FinalProject/blob/main/analysis.ipynb) for the detailed process we selected.
+Click [here](pipelines/Process-3A.ipynb) for the detailed process we selected.
 
 ## Question for Further Analysis
